@@ -28,7 +28,7 @@ Berikut adalah beberapa screenshot dari hasil pengerjaan praktikum:
 **4. Ping S1 ke PC-B**
 ![Ping S1 ke PC-B](./3.png)
 
-**4. Ping R1 ke PC-B**
+**5. Ping R1 ke PC-B**
 ![Ping R1 ke PC-B](./4.png)
 
 

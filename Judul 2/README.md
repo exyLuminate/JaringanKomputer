@@ -20,7 +20,7 @@ Berikut adalah beberapa screenshot dari hasil pengerjaan praktikum:
 ![Topologi Jaringan Judul 2](./topologi.png)
 
 **2. Screenshot ping**
-![Ping PC-B ke PC-A](./1.png)
+[Ping PC-B ke PC-A](./1.png)
 ![Ping PC-A ke PC-B](./2.png)
 ![Ping S1 ke PC-B](./3.png)
 ![Ping R1 ke PC-B](./4.png)

@@ -1,7 +1,7 @@
 # Praktikum [2]: [Jaringan Komputer]
 
 ## 📄 Deskripsi
-(Repositori ini dibuat sebagai tempat pengumpulan tugas akhir praktikum jaringan komputer judul 2: Build a Switch and Router Network")
+(Repositori ini dibuat sebagai tempat pengumpulan tugas akhir praktikum jaringan komputer judul 3: Configure Vlans and Trunking")
 
 ---
 

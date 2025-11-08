@@ -17,7 +17,7 @@
 Berikut adalah beberapa screenshot dari hasil pengerjaan praktikum:
 
 **1. Topologi Jaringan**
-![Topologi Jaringan Judul 2](./topologi.png)
+![Topologi Jaringan Judul 1](./topologi.png)
 
 
 
